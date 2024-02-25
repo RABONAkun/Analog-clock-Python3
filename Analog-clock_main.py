@@ -2,7 +2,7 @@
 import math
 import datetime
 import time
-import tkinter as tk
+import tkinter as tk # tkinterをtkに省略
 import threading
  
 ## 定数
