@@ -1,6 +1,6 @@
 参考までにどうぞ！
 使用するライブラリとモジュール・
-tkinter
-datetime
-time
+tkinter/
+datetime/
+time/
 threading
